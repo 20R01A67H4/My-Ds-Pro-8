@@ -1,0 +1,14 @@
+
+
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/learncoding",
+    "prod_uri":"mysql://root:@localhost/learncoding",
+    "gmail-user":"20r01a67h4@cmritonline.ac.in",
+    "gmail-password":"*TRB*20r01a67h4",
+    "admin-user":"root",
+    "admin-password":"password"
+}
+}

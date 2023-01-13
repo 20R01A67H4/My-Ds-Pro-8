@@ -1,0 +1,27 @@
+.card {
+    display: inline-block;
+    /* the default for span */
+    padding: 10px;
+    margin: 15px;
+    width : 390px;
+    height: 300px;
+    border: 1px solid rgb(149, 149, 189);
+    background-color: rgb(249, 252, 251);
+}
+#navi{
+    background-color: rgb(124, 129, 128);
+
+    width:100vw;
+    height:180px;
+    margin:0px;
+    padding:0px;
+}
+.hi{
+
+    display:inline;
+    margin:8px;
+    align-items: center;
+   
+}
+
+

@@ -1,0 +1,53 @@
+body {
+    background: linear-gradient(to right, #ee08a1, #021a68);
+   
+  }
+  
+  .btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+  }
+  
+  .btn-google {
+    color: white !important;
+    background-color: #ea4335;
+  }
+  
+  .btn-facebook {
+    color: white !important;
+    background-color: #3b5998;
+  }
+  .hii{
+    background:linear-gradient(to bottom,rgb(255, 9, 9),rgb(8, 235, 76));
+    border-radius: 30px;
+    height: 550px;
+    width:380px;
+    margin-left:480px;
+    margin-right:200px;
+    margin-top:0px;
+
+  }
+  .and{
+  
+      animation-name: ex;
+      animation-duration: 10s;
+      animation-iteration-count: infinite;
+      border-radius: 50px;
+  }
+      
+      
+   
+  @keyframes ex {
+      0%   {background-color:red;}
+      10%  {background-color:rgb(26, 4, 151);}
+      20%  {background-color:rgb(29, 139, 62);}
+      30%  {background-color:rgb(243, 135, 11);}
+      40% {background-color:rgb(230, 245, 14);}
+      50%  {background-color:rgb(9, 253, 192);}
+      60%  {background-color:rgb(61, 151, 235);}
+      70% {background-color:rgba(126, 125, 126, 0.87);}
+      80%  {background-color:rgba(109, 241, 32, 0.87);}
+      90%  {background-color:rgb(5, 111, 129);}
+      100% {background-color:rgb(226, 7, 7);}
+    }
