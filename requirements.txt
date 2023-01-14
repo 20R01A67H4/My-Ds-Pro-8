@@ -70,3 +70,7 @@ watchdog==2.1.9
 Werkzeug==2.2.2
 wincertstore==0.2
 zipp==3.10.0
+SQLAlchemy
+datetime
+os
+math
