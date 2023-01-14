@@ -1,5 +1,4 @@
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
-altair==4.2.0
 anaconda-client==1.11.0
 anaconda-navigator==2.3.1
 anaconda-project @ file:///C:/Windows/TEMP/abs_91fu4tfkih/croots/recipe/anaconda-project_1660339890874/work
@@ -33,7 +32,6 @@ botocore @ file:///C:/ci/botocore_1657735875454/work
 Bottleneck @ file:///C:/Windows/Temp/abs_3198ca53-903d-42fd-87b4-03e6d03a8381yfwsuve8/croots/recipe/bottleneck_1657175565403/work
 brotlipy==0.7.0
 bz2file==0.98
-cachetools==5.2.0
 certifi @ file:///C:/b/abs_4f5wo627a3/croots/recipe/certifi_1663615677642/work/certifi
 cffi @ file:///C:/Windows/Temp/abs_6808y9x40v/croots/recipe/cffi_1659598653989/work
 chardet @ file:///C:/ci/chardet_1607706937985/work
@@ -43,7 +41,6 @@ cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1632508026186/work
 clyent==1.2.2
 colorama @ file:///C:/Windows/TEMP/abs_9439aeb1-0254-449a-96f7-33ab5eb17fc8apleb4yn/croots/recipe/colorama_1657009099097/work
 colorcet @ file:///C:/ci/colorcet_1651851676912/work
-commonmark==0.9.1
 comtypes==1.1.10
 conda==22.9.0
 conda-build==3.22.0
@@ -57,7 +54,6 @@ constantly==15.1.0
 cookiecutter @ file:///opt/conda/conda-bld/cookiecutter_1649151442564/work
 cryptography @ file:///C:/ci/cryptography_1652083563162/work
 cssselect==1.1.0
-cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
 Cython @ file:///C:/b/abs_0438epndxm/croots/recipe/cython_1663692771227/work
 cytoolz==0.11.0
 daal4py==2021.6.0
@@ -80,12 +76,10 @@ Flask==2.2.2
 Flask-Mail==0.9.1
 Flask-MySQLdb==1.0.1
 Flask-SQLAlchemy==3.0.2
-fonttools==4.25.0
 fsspec @ file:///C:/Windows/TEMP/abs_a2mhnomvfy/croots/recipe/fsspec_1659972224540/work
 future @ file:///C:/ci/future_1607568713721/work
 gensim @ file:///C:/ci/gensim_1646825438310/work
 gitdb==4.0.9
-GitPython==3.1.29
 glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
 greenlet @ file:///C:/ci/greenlet_1628888275363/work
 h5py @ file:///C:/ci/h5py_1659089875384/work
@@ -114,12 +108,10 @@ itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
 jdcal @ file:///Users/ktietz/demo/mc3/conda-bld/jdcal_1630584345063/work
 jedi @ file:///C:/ci/jedi_1644315428289/work
 jellyfish @ file:///C:/ci/jellyfish_1647962783748/work
-Jinja2==3.1.2
 jinja2-time @ file:///opt/conda/conda-bld/jinja2-time_1649251842261/work
 jmespath @ file:///Users/ktietz/demo/mc3/conda-bld/jmespath_1630583964805/work
 joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
 json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
-jsonify==0.5
 jsonschema @ file:///C:/b/abs_59eyhnbyej/croots/recipe/jsonschema_1663375476535/work
 jupyter @ file:///C:/Windows/TEMP/abs_56xfdi__li/croots/recipe/jupyter_1659349053177/work
 jupyter-console @ file:///opt/conda/conda-bld/jupyter_console_1647002188872/work
@@ -139,7 +131,6 @@ locket @ file:///C:/ci/locket_1652904031364/work
 lxml @ file:///C:/ci/lxml_1657527445690/work
 lz4 @ file:///C:/ci/lz4_1619516674350/work
 Markdown @ file:///C:/ci/markdown_1614364082838/work
-MarkupSafe==2.1.1
 matplotlib @ file:///C:/ci/matplotlib-suite_1660169687702/work
 matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661915841596/work
 mccabe==0.6.1
@@ -208,7 +199,6 @@ pycosat==0.6.3
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pyct @ file:///C:/ci/pyct_1658488033428/work
 pycurl==7.45.1
-pydeck==0.8.0
 PyDispatcher==2.0.5
 pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1621600989141/work
 pyerfa @ file:///C:/ci/pyerfa_1621560974055/work
@@ -218,7 +208,6 @@ PyHamcrest @ file:///tmp/build/80754af9/pyhamcrest_1615748656804/work
 PyJWT @ file:///C:/ci/pyjwt_1657511236979/work
 pylint @ file:///C:/Windows/TEMP/abs_518eqlbmoo/croots/recipe/pylint_1659110354241/work
 pyls-spyder==0.4.0
-Pympler==1.0.1
 PyNaCl @ file:///C:/Windows/Temp/abs_d5c3ajcm87/croots/recipe/pynacl_1659620667490/work
 pyodbc @ file:///C:/Windows/Temp/abs_61e3jz3u05/croots/recipe/pyodbc_1659513801402/work
 pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
@@ -233,7 +222,6 @@ python-lsp-server @ file:///tmp/build/80754af9/python-lsp-server_1648176833691/w
 python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
 python-snappy @ file:///C:/ci/python-snappy_1610133405910/work
 pytz @ file:///C:/Windows/TEMP/abs_90eacd4e-8eff-491e-b26e-f707eba2cbe1ujvbhqz1/croots/recipe/pytz_1654762631027/work
-pytz-deprecation-shim==0.1.0.post0
 pyviz-comms @ file:///tmp/build/80754af9/pyviz_comms_1623747165329/work
 PyWavelets @ file:///C:/ci/pywavelets_1648728084106/work
 pywin32==302
@@ -250,7 +238,6 @@ queuelib==1.5.0
 regex @ file:///C:/ci/regex_1658258307256/work
 requests @ file:///C:/ci/requests_1657735342357/work
 requests-file @ file:///Users/ktietz/demo/mc3/conda-bld/requests-file_1629455781986/work
-rich==12.6.0
 rope @ file:///opt/conda/conda-bld/rope_1643788605236/work
 Rtree @ file:///C:/ci/rtree_1618421015405/work
 ruamel-yaml-conda @ file:///C:/ci/ruamel_yaml_1616016898638/work
@@ -261,14 +248,12 @@ scikit-learn-intelex==2021.20221004.171935
 scipy==1.9.1
 Scrapy @ file:///C:/Windows/TEMP/abs_f50e21j997/croots/recipe/scrapy_1659598707153/work
 seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
-semver==2.13.0
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
 service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629460757137/work
 sip==4.19.13
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 sklearn==0.0
 smart-open @ file:///C:/ci/smart_open_1651235069716/work
-smmap==5.0.0
 sniffio @ file:///C:/ci/sniffio_1614030527509/work
 snowballstemmer @ file:///tmp/build/80754af9/snowballstemmer_1637937080595/work
 sortedcollections @ file:///tmp/build/80754af9/sortedcollections_1611172717284/work
@@ -285,7 +270,6 @@ spyder @ file:///C:/Windows/TEMP/abs_66k5aq_mkw/croots/recipe/spyder_16595998053
 spyder-kernels @ file:///C:/ci/spyder-kernels_1647011408404/work
 SQLAlchemy @ file:///C:/Windows/Temp/abs_f8661157-660b-49bb-a790-69ab9f3b8f7c8a8s2psb/croots/recipe/sqlalchemy_1657867864564/work
 statsmodels==0.13.2
-streamlit==1.14.0
 sympy @ file:///C:/ci/sympy_1647853873858/work
 tables==3.6.1
 tabulate @ file:///C:/ci/tabulate_1657619055201/work
@@ -312,13 +296,11 @@ Twisted @ file:///C:/Windows/Temp/abs_ccblv2rzfa/croots/recipe/twisted_165959276
 twisted-iocpsupport @ file:///C:/ci/twisted-iocpsupport_1646798932792/work
 typing_extensions @ file:///C:/Windows/TEMP/abs_dd2d0moa85/croots/recipe/typing_extensions_1659638831135/work
 tzdata==2022.6
-tzlocal==4.2
 ujson @ file:///C:/ci/ujson_1657525944442/work
 Unidecode @ file:///tmp/build/80754af9/unidecode_1614712377438/work
 urllib3 @ file:///C:/Windows/TEMP/abs_65ynz4fdmi/croots/recipe/urllib3_1659110473919/work
 validators==0.20.0
 w3lib @ file:///Users/ktietz/demo/mc3/conda-bld/w3lib_1629359764703/work
-waitress==2.1.2
 watchdog @ file:///C:/ci/watchdog_1638367441841/work
 wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webencodings==0.5.1
@@ -327,7 +309,6 @@ Werkzeug==2.2.2
 widgetsnbextension @ file:///C:/ci/widgetsnbextension_1644991377168/work
 win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
 win-unicode-console==0.5
-wincertstore==0.2
 wrapt @ file:///C:/Windows/Temp/abs_7c3dd407-1390-477a-b542-fd15df6a24085_diwiza/croots/recipe/wrapt_1657814452175/work
 xarray @ file:///opt/conda/conda-bld/xarray_1639166117697/work
 xgboost==1.7.1
